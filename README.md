@@ -20,6 +20,7 @@ US
   * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
   * [QRLSSP Summer Program](https://qrlssp.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
+  * [Quantum Computing Summer School Fellowship] (https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php), Los Alamos National Laboratory, for all students.
   * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
   * [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
   * ~~[Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579)~~, Flatiron Institute. (NEW LINK NEEDED)
@@ -34,6 +35,7 @@ US
   * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
+  * [International Student Research Internship Program] (https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html) Washington University, St. Louis 
 
 SWITZERLAND
 
@@ -88,6 +90,11 @@ JAPAN
 AUSTRIA
 
   * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
+  
+NETHERLANDS
+
+  * [Leiden/ESA Astrophysics Program for Summer Students (LEAPS)] (https://leaps.strw.leidenuniv.nl/), Leiden University, Astronomy and Astrophysics program. 
+  * [Astrophysics Summer Program for International Research Experience] (https://aspire.science.uva.nl/index.html) Astrophysics program at Anton Pannekoek Institute (API), University of Amsterdam. 3rd Year and beyond only.
   
 HONG KONG 
 
